@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2934c1-60f5-4b05-bff9-2af3fa954c03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,10 +79,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1590075596022">
+    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1590095865070">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1590075596022" />
+    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1590095865070" />
     <state x="362" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590071066043">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
