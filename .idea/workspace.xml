@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe2934c1-60f5-4b05-bff9-2af3fa954c03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cDlMPSvxzkemXQJ7zTUq2XQSXW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseJDBC5" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe2934c1-60f5-4b05-bff9-2af3fa954c03" name="Default Changelist" comment="" />
+      <created>1590070995102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590070995102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590071066043">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="362" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1590071066043" />
+    <state x="341" y="265" key="FileChooserDialogImpl" timestamp="1590071281689">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="341" y="265" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1590071281689" />
+    <state x="115" y="98" key="SettingsEditor" timestamp="1590071193403">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="115" y="98" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1590071193403" />
+    <state x="342" y="154" width="586" height="732" key="find.popup" timestamp="1590071037705">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="342" y="154" width="586" height="732" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1590071037705" />
+  </component>
+</project>
