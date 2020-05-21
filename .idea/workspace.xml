@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe2934c1-60f5-4b05-bff9-2af3fa954c03" name="Default Changelist" comment="" />
+    <list default="true" id="fe2934c1-60f5-4b05-bff9-2af3fa954c03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cDlMPSvxzkemXQJ7zTUq2XQSXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,10 +37,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseJDBC5" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <module name="demo-dao-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,6 +77,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1590074904371">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="440" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1590074904371" />
     <state x="362" y="213" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590071066043">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
