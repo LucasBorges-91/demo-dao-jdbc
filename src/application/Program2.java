@@ -16,27 +16,21 @@ public class Program2 {
     Scanner sc = new Scanner( System.in );
     DepartmentDao departmentDao = DaoFactory.createDepartmentDao();
 
-//    System.out.println( "=== TEST 1: sellerById ===" );
-//    Seller seller = sellerDao.findById( 3 );
-//    System.out.println(seller);
-//
-//    System.out.println( "=== TEST 2: FindByDepartment ===" );
-//    Department department = new Department( 2, null );
-//    List<Seller> list = sellerDao.findByDepartment( department );
-//    for ( Seller obj : list ) {
-//      System.out.println( obj );
-//    }
-//
-//    System.out.println( "=== TEST 3: seller findAll ===" );
-//    list = sellerDao.findAll();
-//    for ( Seller obj : list ) {
-//      System.out.println( obj );
-//    }
+    System.out.println( "=== TEST 1: department findById ===" );
+    Department department = departmentDao.findById( 3 );
+    System.out.println(department);
 
-//    System.out.println( "=== TEST 4: deparment insert ===" );
-//    Department newDepartment = new Department( null, "Music");
-//    departmentDao.insert( newDepartment );
-//    System.out.println( "Inserted! new id = " + newDepartment.getId() );
+
+    System.out.println( "=== TEST 3: seller findAll ===" );
+    List<Department> list = departmentDao.findAll();
+    for ( Department obj : list ) {
+      System.out.println( obj );
+    }
+
+    System.out.println( "=== TEST 4: deparment insert ===" );
+    Department newDepartment = new Department( null, "Music");
+    departmentDao.insert( newDepartment );
+    System.out.println( "Inserted! new id = " + newDepartment.getId() );
 
     System.out.println( "=== TEST 5: department update ===" );
     Department otherDepartment = departmentDao.findById( 7 );
