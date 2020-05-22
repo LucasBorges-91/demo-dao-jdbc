@@ -33,16 +33,16 @@ public class Program2 {
 //      System.out.println( obj );
 //    }
 
-    System.out.println( "=== TEST 4: seller insert ===" );
-    Department newDepartment = new Department( null, "Music");
-    departmentDao.insert( newDepartment );
-    System.out.println( "Inserted! new id = " + newDepartment.getId() );
+//    System.out.println( "=== TEST 4: deparment insert ===" );
+//    Department newDepartment = new Department( null, "Music");
+//    departmentDao.insert( newDepartment );
+//    System.out.println( "Inserted! new id = " + newDepartment.getId() );
 
-//    System.out.println( "=== TEST 5: seller update ===" );
-//    seller = sellerDao.findById( 1 );
-//    seller.setName( "Martha Wayne" );
-//    sellerDao.update( seller );
-//    System.out.println( "Update completed" );
+    System.out.println( "=== TEST 5: department update ===" );
+    Department otherDepartment = departmentDao.findById( 7 );
+    otherDepartment.setName( "Weapons" );
+    departmentDao.update( otherDepartment );
+    System.out.println( "Update completed" );
 //
 //    System.out.println( "=== TEST 6: seller delete ===" );
 //    System.out.println( "Enter id for delete test: ");
