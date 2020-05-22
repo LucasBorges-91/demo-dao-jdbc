@@ -43,12 +43,12 @@ public class Program2 {
     otherDepartment.setName( "Weapons" );
     departmentDao.update( otherDepartment );
     System.out.println( "Update completed" );
-//
-//    System.out.println( "=== TEST 6: seller delete ===" );
-//    System.out.println( "Enter id for delete test: ");
-//    int id = sc.nextInt();
-//    sellerDao.deleteByid( id );
-//    System.out.println( "Delete completed" );
+
+    System.out.println( "=== TEST 6: department delete ===" );
+    System.out.println( "Enter id for delete test: ");
+    int id = sc.nextInt();
+    departmentDao.deleteByid( id );
+    System.out.println( "Delete completed" );
 
     sc.close();
 
